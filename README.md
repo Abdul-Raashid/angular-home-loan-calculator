@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/e553ee84-eb80-45f0-9604-d941377633ea)
+
+
+
+
 # HomeLoanCalculator
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
